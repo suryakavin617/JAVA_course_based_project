@@ -1,0 +1,108 @@
+06-11-2026 08:09:26 | P2 | OPERATOR_ADDED | #1 Arjun Mehta - Command Centre Operator (Command Centre)
+06-11-2026 08:09:26 | P2 | MEMBER_ADDED | #2 Ravi Kumar - Station Member (Maitri) | checked out
+06-11-2026 08:09:26 | P2 | MEMBER_ADDED | #3 Sneha Iyer - Station Member (Bharati) | checked out
+06-11-2026 08:09:26 | P2 | MEMBER_ADDED | #4 Imran Khan - Station Member (Himadri) | checked out
+06-11-2026 08:09:26 | P2 | CHECK_IN | Ravi Kumar at Camp A
+06-11-2026 08:09:26 | P2 | ASSET_REGISTERED | #1 Ice Drill Rig [Equipment] status=REGISTERED location=Warehouse
+06-11-2026 08:09:26 | P2 | ASSET_REGISTERED | #2 Medical Crate A [Medical] status=REGISTERED location=Warehouse
+06-11-2026 08:09:26 | P2 | ASSET_REGISTERED | #3 Generator Unit [Power] status=REGISTERED location=Camp A
+06-11-2026 08:09:26 | P2 | ASSET_REGISTERED | #4 Survey Drone [Research] status=REGISTERED location=Lab
+06-11-2026 08:09:26 | P2 | ASSET_REGISTERED | #5 Spare Antenna [Communication] status=REGISTERED location=Warehouse
+06-11-2026 08:09:26 | P2 | ASSET_STATUS | Asset #3 is now DEPLOYED
+06-11-2026 08:09:26 | P2 | ASSET_STATUS | Asset #3 is now IN_USE
+06-11-2026 08:09:26 | P2 | ASSET_STATUS | Asset #4 is now DEPLOYED
+06-11-2026 08:09:26 | P2 | INVENTORY_ADDED | #1 Bolt Pack | quantity=50 | reorder level=10
+06-11-2026 08:09:26 | P2 | INVENTORY_ADDED | #2 First Aid Kit | quantity=6 | reorder level=4
+06-11-2026 08:09:26 | P2 | INVENTORY_ADDED | #3 Ration Box | quantity=80 | reorder level=30
+06-11-2026 08:09:26 | P2 | INVENTORY_ADDED | #4 Fuel Drum | quantity=5 | reorder level=5  ** LOW STOCK **
+06-11-2026 08:09:26 | P2 | LOW_STOCK | Low stock: Fuel Drum (5 left)
+06-11-2026 08:09:26 | P2 | EXPEDITION_CREATED | #1 Winter Resupply (MV Polar Star, departs 26-11-2026, crew=0, cargo=0)
+06-11-2026 08:09:26 | P2 | EXPEDITION_CREW | Ravi Kumar -> Winter Resupply
+06-11-2026 08:09:26 | P2 | EXPEDITION_CREW | Sneha Iyer -> Winter Resupply
+06-11-2026 08:09:26 | P2 | EXPEDITION_CARGO | Ice Drill Rig -> Winter Resupply
+06-11-2026 08:09:26 | P2 | EXPEDITION_CARGO | Medical Crate A -> Winter Resupply
+06-11-2026 08:09:26 | P2 | EXPEDITION_CARGO | Spare Antenna -> Winter Resupply
+06-11-2026 08:11:29 | P2 | ASSET_REGISTERED | #6 kavin [Food] status=REGISTERED location=Bharti
+06-11-2026 08:09:26 | P3 | ASSET_MOVED | Asset #4 moved to Camp B
+06-11-2026 08:24:10 | P3 | ASSET_MOVED | Asset #5 moved to Camp B
+06-11-2026 08:24:14 | P3 | ASSET_SCANNED | Asset #4 scanned at Camp B
+06-11-2026 08:24:18 | P3 | ASSET_SCANNED | Asset #5 scanned at Camp B
+06-11-2026 08:24:22 | P3 | ASSET_MOVED | Asset #4 moved to Ship Deck
+06-11-2026 08:24:26 | P3 | ASSET_SCANNED | Asset #2 scanned at Warehouse
+06-11-2026 08:24:30 | P3 | ASSET_SCANNED | Asset #2 scanned at Warehouse
+06-11-2026 08:24:34 | P3 | ASSET_SCANNED | Asset #6 scanned at Bharti
+06-11-2026 08:24:38 | P3 | ASSET_MOVED | Asset #4 moved to Warehouse
+06-11-2026 08:24:42 | P3 | ASSET_MOVED | Asset #2 moved to Camp B
+06-11-2026 08:24:46 | P3 | ASSET_MOVED | Asset #5 moved to Warehouse
+06-11-2026 08:24:50 | P3 | ASSET_SCANNED | Asset #3 scanned at Camp A
+06-11-2026 08:24:54 | P3 | ASSET_SCANNED | Asset #3 scanned at Camp A
+06-11-2026 08:24:58 | P3 | ASSET_SCANNED | Asset #6 scanned at Bharti
+06-11-2026 08:29:35 | P1 | SOS_RAISED | #2 [SOS] RAISED - Polar Bear is trying to attack me @ bharti (by Ravi Kumar at 06-11-2026 08:29:35)
+06-11-2026 08:30:17 | P2 | ALERT_ACKNOWLEDGED | Alert #1 ACKNOWLEDGED by Arjun Mehta
+16-11-2026 09:30:26 | P2 | OPERATOR_ADDED | #1 Arjun Mehta - Command Centre Operator (Command Centre)
+16-11-2026 09:30:26 | P2 | MEMBER_ADDED | #2 Ravi Kumar - Station Member (Maitri) | checked out
+16-11-2026 09:30:26 | P2 | MEMBER_ADDED | #3 Sneha Iyer - Station Member (Bharati) | checked out
+16-11-2026 09:30:26 | P2 | MEMBER_ADDED | #4 Imran Khan - Station Member (Himadri) | checked out
+16-11-2026 09:30:26 | P2 | CHECK_IN | Ravi Kumar at Camp A
+16-11-2026 09:30:26 | P2 | ASSET_REGISTERED | #1 Ice Drill Rig [Equipment] status=REGISTERED location=Warehouse
+16-11-2026 09:30:26 | P2 | ASSET_REGISTERED | #2 Medical Crate A [Medical] status=REGISTERED location=Warehouse
+16-11-2026 09:30:26 | P2 | ASSET_REGISTERED | #3 Generator Unit [Power] status=REGISTERED location=Camp A
+16-11-2026 09:30:26 | P2 | ASSET_REGISTERED | #4 Survey Drone [Research] status=REGISTERED location=Lab
+16-11-2026 09:30:26 | P2 | ASSET_REGISTERED | #5 Spare Antenna [Communication] status=REGISTERED location=Warehouse
+16-11-2026 09:30:26 | P2 | ASSET_STATUS | Asset #3 is now DEPLOYED
+16-11-2026 09:30:26 | P2 | ASSET_STATUS | Asset #3 is now IN_USE
+16-11-2026 09:30:26 | P2 | ASSET_STATUS | Asset #4 is now DEPLOYED
+16-11-2026 09:30:26 | P2 | INVENTORY_ADDED | #1 Bolt Pack | quantity=50 | reorder level=10
+16-11-2026 09:30:26 | P2 | INVENTORY_ADDED | #2 First Aid Kit | quantity=6 | reorder level=4
+16-11-2026 09:30:26 | P2 | INVENTORY_ADDED | #3 Ration Box | quantity=80 | reorder level=30
+16-11-2026 09:30:26 | P2 | INVENTORY_ADDED | #4 Fuel Drum | quantity=5 | reorder level=5  ** LOW STOCK **
+16-11-2026 09:30:26 | P2 | LOW_STOCK | Low stock: Fuel Drum (5 left)
+16-11-2026 09:30:26 | P2 | EXPEDITION_CREATED | #1 Winter Resupply (MV Polar Star, departs 06-12-2026, crew=0, cargo=0)
+16-11-2026 09:30:26 | P2 | EXPEDITION_CREW | Ravi Kumar -> Winter Resupply
+16-11-2026 09:30:26 | P2 | EXPEDITION_CREW | Sneha Iyer -> Winter Resupply
+16-11-2026 09:30:26 | P2 | EXPEDITION_CARGO | Ice Drill Rig -> Winter Resupply
+16-11-2026 09:30:26 | P2 | EXPEDITION_CARGO | Medical Crate A -> Winter Resupply
+16-11-2026 09:30:26 | P2 | EXPEDITION_CARGO | Spare Antenna -> Winter Resupply
+16-11-2026 09:33:29 | P2 | ASSET_REGISTERED | #6 Food [FOOD] status=REGISTERED location=LAB a
+16-11-2026 09:33:53 | P2 | ASSET_STATUS | Asset #6 is now RETIRED
+16-11-2026 09:30:26 | P3 | ASSET_MOVED | Asset #4 moved to Camp B
+16-11-2026 09:35:01 | P3 | ASSET_MOVED | Asset #4 moved to Camp B
+16-11-2026 09:35:05 | P3 | ASSET_MOVED | Asset #5 moved to Lab
+16-11-2026 09:35:09 | P3 | ASSET_MOVED | Asset #2 moved to Ship Deck
+16-11-2026 09:35:13 | P3 | ASSET_SCANNED | Asset #1 scanned at Warehouse
+16-11-2026 14:10:24 | P2 | OPERATOR_ADDED | #1 Arjun Mehta - Command Centre Operator (Command Centre)
+16-11-2026 14:10:24 | P2 | MEMBER_ADDED | #2 Ravi Kumar - Station Member (Maitri) | checked out
+16-11-2026 14:10:24 | P2 | MEMBER_ADDED | #3 Sneha Iyer - Station Member (Bharati) | checked out
+16-11-2026 14:10:24 | P2 | MEMBER_ADDED | #4 Imran Khan - Station Member (Himadri) | checked out
+16-11-2026 14:10:24 | P2 | CHECK_IN | Ravi Kumar at Camp A
+16-11-2026 14:10:24 | P2 | ASSET_REGISTERED | #1 Ice Drill Rig [Equipment] status=REGISTERED location=Warehouse
+16-11-2026 14:10:24 | P2 | ASSET_REGISTERED | #2 Medical Crate A [Medical] status=REGISTERED location=Warehouse
+16-11-2026 14:10:24 | P2 | ASSET_REGISTERED | #3 Generator Unit [Power] status=REGISTERED location=Camp A
+16-11-2026 14:10:24 | P2 | ASSET_REGISTERED | #4 Survey Drone [Research] status=REGISTERED location=Lab
+16-11-2026 14:10:24 | P2 | ASSET_REGISTERED | #5 Spare Antenna [Communication] status=REGISTERED location=Warehouse
+16-11-2026 14:10:24 | P2 | ASSET_STATUS | Asset #3 is now DEPLOYED
+16-11-2026 14:10:24 | P2 | ASSET_STATUS | Asset #3 is now IN_USE
+16-11-2026 14:10:24 | P2 | ASSET_STATUS | Asset #4 is now DEPLOYED
+16-11-2026 14:10:24 | P2 | INVENTORY_ADDED | #1 Bolt Pack | quantity=50 | reorder level=10
+16-11-2026 14:10:24 | P2 | INVENTORY_ADDED | #2 First Aid Kit | quantity=6 | reorder level=4
+16-11-2026 14:10:24 | P2 | INVENTORY_ADDED | #3 Ration Box | quantity=80 | reorder level=30
+16-11-2026 14:10:24 | P2 | INVENTORY_ADDED | #4 Fuel Drum | quantity=5 | reorder level=5  ** LOW STOCK **
+16-11-2026 14:10:24 | P2 | LOW_STOCK | Low stock: Fuel Drum (5 left)
+16-11-2026 14:10:24 | P2 | EXPEDITION_CREATED | #1 Winter Resupply (MV Polar Star, departs 06-12-2026, crew=0, cargo=0)
+16-11-2026 14:10:24 | P2 | EXPEDITION_CREW | Ravi Kumar -> Winter Resupply
+16-11-2026 14:10:24 | P2 | EXPEDITION_CREW | Sneha Iyer -> Winter Resupply
+16-11-2026 14:10:24 | P2 | EXPEDITION_CARGO | Ice Drill Rig -> Winter Resupply
+16-11-2026 14:10:24 | P2 | EXPEDITION_CARGO | Medical Crate A -> Winter Resupply
+16-11-2026 14:10:24 | P2 | EXPEDITION_CARGO | Spare Antenna -> Winter Resupply
+16-11-2026 14:11:41 | P2 | ASSET_REGISTERED | #6 chips [FOOD] status=REGISTERED location=Camp B
+16-11-2026 14:12:04 | P2 | ASSET_STATUS | Asset #6 is now RETIRED
+16-11-2026 14:10:24 | P3 | ASSET_MOVED | Asset #4 moved to Camp B
+16-11-2026 14:13:27 | P3 | ASSET_MOVED | Asset #2 moved to Ship Deck
+16-11-2026 14:13:31 | P3 | ASSET_SCANNED | Asset #2 scanned at Ship Deck
+16-11-2026 14:13:35 | P3 | ASSET_SCANNED | Asset #2 scanned at Ship Deck
+16-11-2026 14:13:39 | P3 | ASSET_SCANNED | Asset #4 scanned at Camp B
+16-11-2026 14:13:43 | P3 | ASSET_MOVED | Asset #1 moved to Lab
+16-11-2026 14:13:47 | P3 | ASSET_SCANNED | Asset #3 scanned at Camp A
+16-11-2026 14:13:51 | P3 | ASSET_SCANNED | Asset #1 scanned at Lab
+16-11-2026 14:13:55 | P3 | ASSET_SCANNED | Asset #2 scanned at Ship Deck
+16-11-2026 14:13:59 | P3 | ASSET_SCANNED | Asset #2 scanned at Ship Deck

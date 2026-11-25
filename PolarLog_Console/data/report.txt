@@ -1,0 +1,73 @@
+POLARLOG REPORT
+
+=========== COMMAND DASHBOARD ===========
+Session time     : 430 seconds (Java 26.0.2)
+Link status      : ONLINE
+Pending sync     : 0 record(s)
+
+ASSETS (6)
+  REGISTERED : 3
+  DEPLOYED : 1
+  IN_USE : 1
+  INSPECTED : 0
+  RETIRED : 1
+  Categories : [Communication, Equipment, FOOD, Medical, Power, Research]
+
+INVENTORY (4 items, average stock 35.3)
+  Low stock items : 1
+    - Fuel Drum (5)
+
+PEOPLE (4 at 4 station(s))
+  Checked in : [Ravi Kumar]
+
+OPEN ALERTS (1)
+  #1 [LOW STOCK] RAISED - Low stock: Fuel Drum (5 left) @ Store (by SYSTEM at 16-11-2026 09:30:26)
+
+RECENT ACTIVITY (newest first)
+  16-11-2026 09:35:13  Asset #1 scanned at Warehouse
+  16-11-2026 09:35:09  Asset #2 moved to Ship Deck
+  16-11-2026 09:35:05  Asset #5 moved to Lab
+  16-11-2026 09:35:01  Asset #4 moved to Camp B
+  16-11-2026 09:33:53  Asset #6 status changed to RETIRED
+  16-11-2026 09:33:29  Registered asset Food (#6)
+  16-11-2026 09:30:26  Spare Antenna loaded for Winter Resupply
+  16-11-2026 09:30:26  Medical Crate A loaded for Winter Resupply
+  16-11-2026 09:30:26  Ice Drill Rig loaded for Winter Resupply
+  16-11-2026 09:30:26  Sneha Iyer added to Winter Resupply
+=========================================
+
+--- ALL ASSETS (sorted by name) ---
+#6 Food [FOOD] status=RETIRED location=LAB a
+#3 Generator Unit [Power] status=IN_USE location=Camp A
+#1 Ice Drill Rig [Equipment] status=REGISTERED location=Warehouse
+#2 Medical Crate A [Medical] status=REGISTERED location=Ship Deck
+#5 Spare Antenna [Communication] status=REGISTERED location=Lab
+#4 Survey Drone [Research] status=DEPLOYED location=Camp B
+(Last name alphabetically: Survey Drone)
+
+--- INVENTORY ---
+#1 Bolt Pack | quantity=50 | reorder level=10
+#2 First Aid Kit | quantity=6 | reorder level=4
+#4 Fuel Drum | quantity=5 | reorder level=5  ** LOW STOCK **
+#3 Ration Box | quantity=80 | reorder level=30
+
+--- PEOPLE ---
+#1 Arjun Mehta - Command Centre Operator (Command Centre)
+#2 Ravi Kumar - Station Member (Maitri) | checked in at Camp A
+#3 Sneha Iyer - Station Member (Bharati) | checked out
+#4 Imran Khan - Station Member (Himadri) | checked out
+
+--- EXPEDITIONS ---
+=== Expedition ===
+ID         : 1
+Name       : Winter Resupply
+Vessel     : MV Polar Star
+Departure  : 06-12-2026 (in 20 days)
+Crew       : Ravi Kumar; Sneha Iyer; 
+Cargo      : #1 Ice Drill Rig; #2 Medical Crate A; #5 Spare Antenna; 
+
+--- ALL ALERTS ---
+#1 [LOW STOCK] RAISED - Low stock: Fuel Drum (5 left) @ Store (by SYSTEM at 16-11-2026 09:30:26)
+
+--- MOVEMENT LOG ---
+16-11-2026 09:30:26  Ravi Kumar  CHECK_IN  Camp A
